@@ -20,7 +20,7 @@ while True:
     print(" Internet do otário: " + values['isp'])
     print(" País do otário: " + values['country'])
     print(" Estado do otário: " + values['region'])
-    print(" Fuzo do horário do otário: " + values['timezone'])
+    print(" Fuso do horário do otário: " + values['timezone'])
 
 
     break
