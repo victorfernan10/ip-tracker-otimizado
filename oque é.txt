@@ -1,0 +1,10 @@
+Salve mano, bom?
+Isso ai é um IPTracker bem básico desenvolvido através da API http://ip-api.com/json, qual localiza e da informações sobre o o IP Alvo.
+Os requisitos são:
+
+Python3/2
+
+Sim, só isso.
+Tamo junto.
+
+https://twitter.com/mainjota
