@@ -15,12 +15,12 @@ while True:
     data = response.read()
     values = json.loads(data)
 
-    print(" IP do otário: " +  values['query'])
-    print(" Cidade do otário: " + values['city'])
-    print(" Internet do otário: " + values['isp'])
-    print(" País do otário: " + values['country'])
-    print(" Estado do otário: " + values['region'])
-    print(" Fuso do horário do otário: " + values['timezone'])
+    print(" IP: " +  values['query'])
+    print(" Cidade: " + values['city'])
+    print(" Internet: " + values['isp'])
+    print(" País: " + values['country'])
+    print(" Estado: " + values['region'])
+    print(" Fuso: " + values['timezone'])
 
 
     break
