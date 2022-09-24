@@ -1,8 +1,3 @@
-# Feito por: Mainjota
-# Editado, reduzido e otimizado para Py3/Py2
-# Segue no twitter: http://twitter.com/mainjota
-# Só isso mesmo, tamo junto.
-
 import os
 import urllib.request as urllib2
 import json
